@@ -69,26 +69,26 @@ Go to Home tab in Anaconda Navigator.\
 In the Applications on zomato_env section:
 Locate Jupyter Notebook
 Click Launch\
-A browser window will open.
-Step 5: Open the Project
-In the browser window, navigate to the folder where you cloned/downloaded the project.
+A browser window will open.\
+Step 5: Open the Project\
+In the browser window, navigate to the folder where you cloned/downloaded the project.\
 Open:
-Zomato-Restaurant-Clustering-and-Sentiment-Analysis.ipynb
-Run each cell in sequence to execute the notebook.
-Optional: Add zomato_env to Jupyter Kernels
+Zomato-Restaurant-Clustering-and-Sentiment-Analysis.ipynb\
+Run each cell in sequence to execute the notebook.\
+Optional: Add zomato_env to Jupyter Kernels\
 If Jupyter doesn't show your new environment:
 
 Open terminal inside Anaconda Navigator (▶ > Terminal in zomato_env)
 Run:
 python -m ipykernel install --user --name=zomato_env
-Now you'll see zomato_env as a kernel inside Jupyter Notebook.
+Now you'll see zomato_env as a kernel inside Jupyter Notebook.\
 
-✅ Project Features
+✅ Project Features:
 
 📊 Restaurant Clustering using KMeans, DBSCAN, and PCA
-💬 Sentiment Analysis using NLP, LDA topic modeling
-🎯 Model Evaluation with Precision, Recall, F1-Score, ROC AUC
-🧠 Supervised Learning with Logistic Regression, XGBoost
+💬 Sentiment Analysis using NLP, LDA topic modeling\
+🎯 Model Evaluation with Precision, Recall, F1-Score, ROC AUC\
+🧠 Supervised Learning with Logistic Regression, XGBoost\
 📈 Visual analytics using matplotlib and seaborn
 
 
