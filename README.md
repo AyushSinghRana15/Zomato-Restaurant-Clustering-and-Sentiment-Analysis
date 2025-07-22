@@ -36,39 +36,39 @@ This project performs unsupervised **clustering of restaurants** and supervised 
 git clone https://github.com/AyushSinghRana15/Zomato-Restaurant-Clustering-and-Sentiment-Analysis.git
 cd Zomato-Restaurant-Clustering-and-Sentiment-Analysis
 ```
-2: Open Anaconda Navigator
-Launch Anaconda Navigator from your Start Menu (Windows) or Applications folder (Mac).
-Click on Environments (left sidebar).
+2: Open Anaconda Navigator\
+Launch Anaconda Navigator from your Start Menu (Windows) or Applications folder (Mac).\
+Click on Environments (left sidebar).\
 Click Create:
 Name: zomato_env
-Python version: 3.9 (or 3.8+)
-Wait for environment creation to complete.
+Python version: 3.9 (or 3.8+)\
+Wait for environment creation to complete.\
 Step 3: Install Required Libraries
-Select your new environment (zomato_env) from the Environments tab.
-From the dropdown, choose "Not installed".
+Select your new environment (zomato_env) from the Environments tab.\
+From the dropdown, choose "Not installed".\
 Use the search bar to find and check these packages:
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-nltk
-gensim
-xgboost
-Click Apply to install selected packages.
-For any missing packages (e.g., xgboost or gensim), you can also open a terminal inside Navigator (click "▶" > Open Terminal) and run:
-pip install xgboost gensim nltk spacy
+pandas\
+numpy\
+matplotlib\
+seaborn\
+scikit-learn\
+nltk\
+gensim\
+xgboost\
+Click Apply to install selected packages.\
+For any missing packages (e.g., xgboost or gensim), you can also open a terminal inside Navigator (click "▶" > Open Terminal) and run:\
+pip install xgboost gensim nltk spacy\
 Then, install NLTK resources:
 
 import nltk
-nltk.download('punkt')
-nltk.download('stopwords')
+nltk.download('punkt')\
+nltk.download('stopwords')\
 
-4. Launch Jupyter Notebook
-Go to Home tab in Anaconda Navigator.
+4. Launch Jupyter Notebook\
+Go to Home tab in Anaconda Navigator.\
 In the Applications on zomato_env section:
 Locate Jupyter Notebook
-Click Launch
+Click Launch\
 A browser window will open.
 Step 5: Open the Project
 In the browser window, navigate to the folder where you cloned/downloaded the project.
