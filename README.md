@@ -85,7 +85,7 @@ Now you'll see zomato_env as a kernel inside Jupyter Notebook.\
 
 ✅ Project Features:
 
-📊 Restaurant Clustering using KMeans, DBSCAN, and PCA
+📊 Restaurant Clustering using KMeans, DBSCAN, and PCA\
 💬 Sentiment Analysis using NLP, LDA topic modeling\
 🎯 Model Evaluation with Precision, Recall, F1-Score, ROC AUC\
 🧠 Supervised Learning with Logistic Regression, XGBoost\
